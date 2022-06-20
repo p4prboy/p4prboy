@@ -188,4 +188,4 @@ async def jebaited(ctx):
   
       
 
-client.run('OTg3MzYyMTk2MTY0MDY3Mzgy.Gglj37.KAOMXTuH99qyQPBmDHRFYWIexB33RjuHsRLIGk')
+client.run('')
